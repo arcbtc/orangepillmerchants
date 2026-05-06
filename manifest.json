@@ -2,7 +2,7 @@
   "repos": [
     {
       "id": "orangepillmerchants",
-      "organisation": "arcbtc",
+      "organisation": "lnbits",
       "repository": "orangepillmerchants",
       "super_user_only": true
     }
