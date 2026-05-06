@@ -1,0 +1,10 @@
+{
+  "repos": [
+    {
+      "id": "orangepillmerchants",
+      "organisation": "lnbits",
+      "repository": "orangepillmerchants",
+      "super_user_only": true
+    }
+  ]
+}

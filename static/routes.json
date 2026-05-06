@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/orangepillmerchants/",
+    "name": "PageOrangepillmerchant",
+    "template": "/orangepillmerchants/static/index.vue",
+    "component": "/orangepillmerchants/static/index.js"
+  }
+]
